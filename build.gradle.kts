@@ -6,7 +6,7 @@ plugins {
     id("net.mamoe.mirai-console") version "2.4.1"
 }
 
-group = "com.github.jiumuln"
+group = "com.github.jiumuln.aobajam"
 version = "1.0"
 
 repositories {
